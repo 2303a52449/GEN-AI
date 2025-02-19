@@ -21,6 +21,7 @@ https://github.com/2303a52449/GEN-AI/blob/main/GENAI_4.ipynb
 
 WEEK-5
 
+https://github.com/2303a52449/GEN-AI/blob/main/GENAI_5.ipynb
 
 
 WEEK-6
