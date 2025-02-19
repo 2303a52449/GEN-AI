@@ -7,7 +7,7 @@ https://github.com/2303a52449/GEN-AI/blob/main/GENAI_1.ipynb
 
 WEEK-2
 
-
+https://github.com/2303a52449/GEN-AI/blob/main/GENAI_2.ipynb
 
 
 WEEK-3
